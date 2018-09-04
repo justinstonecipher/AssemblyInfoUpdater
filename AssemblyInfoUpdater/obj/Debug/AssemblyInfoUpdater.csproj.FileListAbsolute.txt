@@ -1,0 +1,11 @@
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\bin\Debug\AssemblyInfoUpdater.exe.config
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\bin\Debug\AssemblyInfoUpdater.exe
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\bin\Debug\AssemblyInfoUpdater.pdb
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\obj\Debug\AssemblyInfoUpdater.csprojResolveAssemblyReference.cache
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\obj\Debug\AssemblyInfoUpdater.csproj.CoreCompileInputs.cache
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\obj\Debug\AssemblyInfoUpdater.exe
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\obj\Debug\AssemblyInfoUpdater.pdb
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\bin\Debug\CommandLine.dll
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\bin\Debug\System.Console.dll
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\RRPSSourceBuild\AssemblyInfoUpdater\AssemblyInfoUpdater\bin\Debug\CommandLine.xml
